@@ -1,7 +1,7 @@
 - 👋 Bonjour, je me présente @dev-snely
 - 👀 J'ai de l'intérêt pour le développement logiciel
 - 🌱 Actuellement étudiant à L'ÉTS de montréal
-- 💞️ En voie d'être ingénieur logiciel :)
+- 💞️ J'aime relever les défis qui se présente à moi :)
 - 📫 Me contacter via courriel: dev.snely@gmail.com
 
 <!---
