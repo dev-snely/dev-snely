@@ -1,4 +1,4 @@
-Je m'appele @dev-snely, Je étudie le génie logiciel à L'ÉTS
+Je m'appele @dev-snely, j'étudie le génie logiciel à L'ÉTS
 
 ### Expérience académique  
 - **Explorateur en architecture logicielle appliquée**, actuellement engagé dans l’art noble de la conception des diagrammes UML lus par aucun.  
