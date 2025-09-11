@@ -1,5 +1,4 @@
-Je m'appele @dev-snely
-# Étudiant en Génie Logiciel à l’ÉTS  
+Je m'appele @dev-snely, Je étudie le génie logiciel à L'ÉTS
 
 ### Expérience académique  
 - **Explorateur en architecture logicielle appliquée**, actuellement engagé dans l’art noble de la conception des diagrammes UML lus par aucun.  
@@ -27,23 +26,7 @@ Coder, c’est dépassé. Les vrais écrivent en **flux de conscience orienté m
 - J'applique le principe **“No pain, no gain”** à la salle de sport. Un jour, j'aurai le physique.
 - Je ne suis pas un gamer. 
 - Meilleur police de caractère : iosevka. 🐐
-'''
 
-                                        ________________________
-   /\    /\                             /                        \
-   \ \  / /                            /                          \
-    \ \/ /~~.                         /                            \
-     \  //_/                         /                              \
-     /  \/                          /                                \
-    / /\ \                         /
-   / /| \/                       _/
-  / / --/                       /
- / / /  |                   ___/
-/ / /   |                 _/
-\/  \   \_      _________/
----------------/
-
-'''
 <!---
 dev-snely/dev-snely is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
