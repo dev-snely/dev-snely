@@ -27,8 +27,9 @@ Coder, c’est dépassé. Les vrais écrivent en **flux de conscience orienté m
 - J'applique le principe **“No pain, no gain”** à la salle de sport. Un jour, j'aurai le physique.
 - Je ne suis pas un gamer. 
 - Meilleur police de caractère : iosevka. 🐐
+'''
 
-                                         ________________________
+                                        ________________________
    /\    /\                             /                        \
    \ \  / /                            /                          \
     \ \/ /~~.                         /                            \
@@ -41,6 +42,8 @@ Coder, c’est dépassé. Les vrais écrivent en **flux de conscience orienté m
 / / /   |                 _/
 \/  \   \_      _________/
 ---------------/
+
+'''
 <!---
 dev-snely/dev-snely is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
