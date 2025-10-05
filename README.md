@@ -1,11 +1,11 @@
-Je m'appele @dev-snely, j'étudie le génie logiciel à L'ÉTS
+Vous pouvez m'appeler Snely, j'étudie actuellement le génie logiciel à [L'École de technologie supérieure](https://www.etsmtl.ca/)
 
 ### En apprentissage  
-- **Achitecture logicielle appliquée**, actuellement engagé dans l’art noble de l'UML.
-- **Python Development**, un langage de génie incompris.  
-- **Docker Mastery**, actuellement en phase « **G** **P**eut-être besoin de **T**on aide. Montre moi la voie ».  
-- **WSL enthusiast**
-- **Équilibrage rigoureux entre dette technique et deadline imminente**.
+- **Architecture logicielle**, monolithe, microservices, ci/cd, rest, databases, etc 
+- **Python**, un langage de génie incompris :) 
+- **Docker**, ma prière est quotidienne dans le fonctionnement de mes conteneurs ».  
+- **WSL** je suis entousiaste et pense faire un saut future sur Linux.
+- **Gestion de la dette technique et des deadlines imminentes**.
   
 ### Philosophie
 - Ça compile == ça marche. 
