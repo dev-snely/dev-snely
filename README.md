@@ -3,7 +3,7 @@ Vous pouvez m'appeler Snely, j'étudie actuellement le génie logiciel à [L'Éc
 ### En apprentissage  
 - **Architecture logicielle**, monolithe, microservices, ci/cd, rest, databases, etc 
 - **Python**, un langage de génie incompris :) 
-- **Docker**, ma prière est quotidienne dans le fonctionnement de mes conteneurs ».  
+- **Docker**, ma prière est quotidienne dans le fonctionnement de mes conteneurs.  
 - **WSL** je suis entousiaste et pense faire un saut future sur Linux.
 - **Gestion de la dette technique et des deadlines imminentes**.
   
